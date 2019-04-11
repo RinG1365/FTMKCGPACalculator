@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FTMK CGPA Calculator</string>
+
+    <string name="grade_prompt">Grade</string>
+    <string name="btnPositive">Agreed</string>
+    <string name="btnNegative">Cancel</string>
+
+    <string-array name="grade_array">
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>E</item>
+
+
+    </string-array>
+</resources>
